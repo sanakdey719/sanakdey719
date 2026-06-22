@@ -23,4 +23,4 @@
 
 ### 🛠️ My Projects:
 **To-Do List App** <br/>
-- [Click here to open my](https://github.io)
+- [https://sanakdey719.github.io/To-Do-List-App-Android-/](https://github.io)
