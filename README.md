@@ -21,4 +21,4 @@
 ### 🛠️ My Projects:
 **To-Do List App** <br/>
 <a href="https://sanakdey719.github.io/To-Do-List-App-Android-/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">
-            👉 Click here to open my To-Do List App
+            👉 Click here to open My Global Search App
