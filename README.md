@@ -17,8 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanakdey719&show_icons=true&locale=en&layout=compact" alt="sanakdey719" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanakdey719&show_icons=true&locale=en" alt="sanakdey719" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanakdey719&" alt="sanakdey719" /></p>
 
 ### 🛠️ My Projects:
