@@ -21,5 +21,5 @@
 ### 🛠️ My Projects:
 **Games** <br/>
 <a href="https://sanakdey719.github.io/To-Do-List-App-Android-/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">
-            👉 [Games](https://sanakdey719.github.io/Games/)
+            👉 [Snake Game](https://sanakdey719.github.io/Games/)
 
