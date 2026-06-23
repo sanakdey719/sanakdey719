@@ -19,7 +19,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanakdey719&" alt="sanakdey719" /></p>
 
 ### 🛠️ My Projects:
-**Games** <br/>
-<a href="https://sanakdey719.github.io/To-Do-List-App-Android-/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">
-            👉 [Snake Game](https://sanakdey719.github.io/Games/)
+👉 [Games](https://sanakdey719.github.io/Games/)
 
