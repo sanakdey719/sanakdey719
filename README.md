@@ -19,5 +19,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanakdey719&" alt="sanakdey719" /></p>
 
 ### 🛠️ My Projects:
-👉 [Games](https://sanakdey719.github.io/Games/)
+👉 [Game Hub](https://sanakdey719.github.io/Games/)
 
