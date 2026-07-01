@@ -20,6 +20,6 @@
 
 
 ### 🛠️ My Projects:
-👉 [AI](https://sanakdey719.github.io/sanakdey719/ai/)
-👉 [Game Hub](https://sanakdey719.github.io/sanakdey719/gamehub/)
+👉 [AI](https://sanakdey719.github.io/sanakdey719/ai/)<br>
+👉 [Game Hub](https://sanakdey719.github.io/sanakdey719/gamehub/)<br>
 👉 [Demon Slayer](https://sanakdey719.github.io/sanakdey719/demonslayer/)
