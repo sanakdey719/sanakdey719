@@ -17,3 +17,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanakdey719&" alt="sanakdey719" /></p>
+
+
+### 🛠️ My Projects:
+👉 [AI](https://sanakdey719.github.io/sanakdey719/ai/)
+👉 [Game Hub](https://sanakdey719.github.io/sanakdey719/gamehub/)
+👉 [Demon Slayer](https://sanakdey719.github.io/sanakdey719/demonslayer/)
