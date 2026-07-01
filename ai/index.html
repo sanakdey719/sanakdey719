@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>My AI Assistant</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+  <div class="sidebar-backdrop" id="sidebarBackdrop"></div>
+
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <h2>🤖 My Assistant</h2>
+      <button id="newChatBtn" class="btn-icon" title="New Chat">+ New Chat</button>
+    </div>
+
+    <div class="chat-list" id="chatList"></div>
+
+    <div class="sidebar-footer">
+      <button id="settingsBtn" class="btn-secondary">⚙️ Settings</button>
+      <button id="clearChatsBtn" class="btn-secondary">💬 Clear All Chats</button>
+      <button id="clearAllBtn" class="btn-danger">🗑️ Clear All Data</button>
+    </div>
+  </aside>
+
+  <main class="main">
+    <header class="topbar">
+      <button id="menuToggle" class="btn-icon mobile-only">☰</button>
+      <h1 id="chatTitle">New Chat</h1>
+      <button id="exportBtn" class="btn-icon" title="Export Data">⬇️</button>
+    </header>
+
+    <section class="messages" id="messages">
+      <div class="empty-state" id="emptyState">
+        <h2>How can I help you today?</h2>
+        <p>Type your message below to start the conversation.</p>
+      </div>
+    </section>
+
+    <form class="input-area" id="inputForm">
+      <textarea id="userInput" placeholder="Type a message..." rows="1"></textarea>
+      <button type="submit" id="sendBtn" class="btn-send">➤</button>
+    </form>
+  </main>
+
+</div>
+
+<div class="modal-overlay" id="settingsModal">
+  <div class="modal">
+    <h2>⚙️ Settings</h2>
+
+    <label>AI Provider</label>
+    <select id="providerSelect">
+      <option value="anthropic">Anthropic (Claude)</option>
+      <option value="openai">OpenAI (ChatGPT)</option>
+      <option value="groq">Groq</option>
+    </select>
+
+    <label>API Key</label>
+    <input type="password" id="apiKeyInput" placeholder="Enter your API key">
+    <p class="hint">Your API key is stored only in your browser (localStorage) and never sent anywhere else.</p>
+
+    <label>Model</label>
+    <input type="text" id="modelInput" placeholder="e.g. claude-sonnet-4-6, gpt-4o, llama-3.3-70b-versatile">
+    <p class="hint" id="modelHint">Anthropic example: claude-sonnet-4-6</p>
+
+    <label>System Prompt (controls the assistant's behavior)</label>
+    <textarea id="systemPromptInput" rows="5" placeholder="e.g. You are a helpful, friendly AI assistant. Give clear and direct answers."></textarea>
+
+    <div class="modal-actions">
+      <button id="saveSettingsBtn" class="btn-primary">Save</button>
+      <button id="closeSettingsBtn" class="btn-secondary">Close</button>
+    </div>
+  </div>
+</div>
+
+<script src="assistant.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
