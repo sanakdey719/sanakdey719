@@ -58,6 +58,16 @@
     iconShape: "bolt", 
     colorFrom: "#3a8e5c", 
     colorTo: "#1a3d28" 
+    },
+    {
+    id: "towerblocks",
+    title: "Tower Blocks",
+    category: "Arcade",
+    src: "towerblock.html",
+    isNew: true,
+    iconShape: "bolt",
+    colorFrom: "#D0CBC7",
+    colorTo: "#333344"
     }
   ];
 
