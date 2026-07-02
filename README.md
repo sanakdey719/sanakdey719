@@ -15,5 +15,5 @@
 ### 🛠️ My Projects:
 👉 [AI](https://sanakdey719.github.io/sanakdey719/ai/)<br>
 👉 [Game Hub](https://sanakdey719.github.io/sanakdey719/gamehub/)<br>
-👉 [Spyder Clock](https://sanakdey719.github.io/sanakdey719/spyder.clock/)<br>
+👉 [Spyder Clock](https://sanakdey719.github.io/sanakdey719/animation/spyderclock/)<br>
 👉 [Demon Slayer](https://sanakdey719.github.io/sanakdey719/demonslayer/)
